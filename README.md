@@ -8,3 +8,10 @@ use- encoder {df=pd.read_csv('zomato.csv',encoding='latin-1')}
 
 count()-gives the total no of elements in a column
 value_counts()-gives quantity of each category in a column
+
+
+
+percentage formats
+
+" %1.2f%% "
+     after . write 2 decimal values
